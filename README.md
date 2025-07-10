@@ -1,4 +1,4 @@
-# 🧹 Sprint 1: Qualidade dos Dados
+# 🧹 Qualidade dos Dados
 
 ## 📝 Descrição
 Nesta primeira sprint, o foco foi realizar o pré-processamento de dados simulados de uma empresa de e-commerce fictícia chamada Store 1. O objetivo principal foi identificar problemas comuns em datasets, como tipos de dados inadequados, formatação incorreta, valores ausentes e operações básicas com listas e estruturas de repetição.
